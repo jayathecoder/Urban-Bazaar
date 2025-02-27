@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React from 'react'
 import './Hero.css'
 import hand_icon from '../Assets/hand_icon.png'
 import arrow_icon from '../Assets/arrow.png'
