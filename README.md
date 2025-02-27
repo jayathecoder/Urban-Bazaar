@@ -19,7 +19,7 @@ PostgreSQL (for the database)
 
 Feel free to create a pull request if you want to commit some new feature.
 
-Thankyou!
+Regards,
 Jaya
 
 
